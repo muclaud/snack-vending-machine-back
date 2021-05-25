@@ -1,0 +1,15 @@
+{
+  "name": "intelliart-back-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "apollo-server": "^2.24.0",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.7",
+    "nodemon": "^2.0.7"
+  }
+}
